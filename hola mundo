@@ -1,0 +1,16 @@
+#include "stdafx.h"
+#include "stdafx.h"
+#include <iostream>
+#include "conio.h"
+using namespace std;
+
+
+void main()
+{
+ int edad;
+ cout<<"ingresa tu edad giodano:";
+  cin>>edad;
+ cout<<"giordano tu edad es:";
+ cout<<edad;
+ getch();
+}
